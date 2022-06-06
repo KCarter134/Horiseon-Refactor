@@ -1,2 +1,1 @@
-# HoriseonRefactor
-Refactored code for SEO
+# Code Refactor Starter Code
